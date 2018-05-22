@@ -1,5 +1,4 @@
-<h2><strong>프로그래밍을 어떻게 배우면 좋을지에 대한</strong> 고민을 담고 있는 Repository 입니다. </h2>
-<br/><br/>
+<h3><strong>프로그래밍을 어떻게 배우면 좋을지에 대한</strong> 고민을 담고 있는 Repository 입니다. </h3>
 좋은 교육이나 포스팅 pull request 날려 주세요.
 <hr>
 <ol>
@@ -12,7 +11,7 @@
  <li> 설치는 github에서 clone 받아 build하는 게 가장 좋습니다.</li>
 </ol>
  <hr>
-<h3> 강의들  </h3>
+<h4> 강의들  </h4>
     <ul>
         <li>입문 강의(프로그래밍 언어) 
             <ul>파이썬 (출처 : <a href=https://www.youtube.com/watch?v=UHg1Drp1uKE&list=PLGPF8gvWLYypeEoFNTfSHdFL5WRLAfmmm>왼손코딩</a>) </ul>
@@ -60,16 +59,18 @@
     <ul> 
         <li>네트워크, 분산처리</li>
     </ul>
+    <ul> 
+        <li> 버전관리, 오픈소스 Git</li> 
+    </ul>
  <hr>
-
-<h3> 보면 좋은 자료들(다양한 기술 이해) </h3>
- <ul>
-    <li> <a href="https://www.youtube.com/watch?v=klnfWhPGPRs"> naver d2 세미나</a></li>
+<h4> 보면 좋은 자료들(다양한 기술 이해) </h4>
+<ul>
+    <li><a href="https://www.youtube.com/watch?v=klnfWhPGPRs"> naver d2 세미나</a></li>
     <li> <a href="http://bcho.tistory.com/"> 조대협 블로그</a></li>
     <li>  <a href="http://meetup.toast.com/"> Toast Meetup </a></li>
  </ul>
 <h3> 보면 좋은 자료들(멘탈) </h3>
-<ul> 
+<ul>
     <li><a href= https://www.youtube.com/watch?v=PUd6LCJZlJo&t=1s> 
     컴퓨터는 추상적으로 돌지 않는다 : 인생은 알고리즘으로 되어있다. </a> (출처 : <a href=https://www.youtube.com/channel/UC63J0Q5huHSlbNT3KxvAaHQ>포프TV</a> )</li>
         <caption> 추천이유 : 알고리즘이 실생활에 사용된다는 걸 이해하고 코딩하며 실제 로직에 집중해야 한다는 걸 되새길 수 있습니다.</caption>
