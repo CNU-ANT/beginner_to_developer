@@ -11,7 +11,7 @@
  <li> 설치는 github에서 clone 받아 build하는 게 가장 좋습니다.</li>
 </ol>
  <hr>
-<h4> 강의들  </h4>
+<h4>강의들</h4>
     <ul>
         <li>입문 강의(프로그래밍 언어) 
             <ul>파이썬 (출처 : <a href=https://www.youtube.com/watch?v=UHg1Drp1uKE&list=PLGPF8gvWLYypeEoFNTfSHdFL5WRLAfmmm>왼손코딩</a>) </ul>
@@ -21,8 +21,8 @@
         <li>자료구조 강의 </li>
     </ul>
     <ul>
-        <li>알고리즘 강의
-            <ul>
+        <li>알고리즘 강의</li>
+           <ul>
                 <li><a href=https://www.youtube.com/watch?v=qQ5iLNjpxSk&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz> 실전 알고리즘 강의  </a> (출처 : <a href=https://www.youtube.com/channel/UChflhu32f5EUHlY7_SetNWw/playlists>나동빈 Youtube</a>) </li>
             </ul>
         </li>
@@ -35,13 +35,9 @@
     </ul>
      <ul> 
         <li>웹 프로그래밍</li>
-        <ul>
-         
-               <li> <a href="https://opentutorials.org/course/1688"> 웹 애플리케이션 만들기 </a>: 실전 코딩<caption> 웹의 전반적인 이해를 포함하고 있어서 처음 웹을 공부하는 사람에게 잘 맞는 것 같다. </caption></li>
-               
+        <ul><li> <a href="https://opentutorials.org/course/1688"> 웹 애플리케이션 만들기 </a>: 실전 코딩<caption> 웹의 전반적인 이해를 포함하고 있어서 처음 웹을 공부하는 사람에게 잘 맞는 것 같다. </caption></li>
                <li><a href=https://www.w3schools.com/> 웹 전반적인 기술 </a><caption>웹페이지 만들려면 어느정도 암기(기술)가 필요</caption>  (출처 : <a = hrefhttps://www.w3schools.com> w3 school</a>)</li> 
-                <ul>
-                        <li>html </li>
+                <ul><li>html</li>
                         <li>css, css3, scss, bootstrap </li>
                         <li>java script</li>
                         <ul>
