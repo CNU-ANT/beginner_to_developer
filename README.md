@@ -1,5 +1,4 @@
-
-이 Repository는 <br><strong>프로그램을 어떻게 배우면 좋을지에 대한 로드맵</strong> 에 대한 고민을 담고 있습니다. 
+<h2><strong>프로그래밍을 어떻게 배우면 좋을지에 대한</strong> 고민을 담고 있는 Repository 입니다. </h2>
 <br/><br/>
 좋은 교육이나 포스팅 pull request 날려 주세요.
 <hr>
@@ -38,7 +37,10 @@
      <ul> 
         <li>웹 프로그래밍</li>
         <ul>
-                <li><a href=https://www.w3schools.com/> 웹 전반적인 기술 </a> (출처 : <a = hrefhttps://www.w3schools.com> w3 school</a>)</li> 
+         
+               <li> <a href="https://opentutorials.org/course/1688"> 웹 애플리케이션 만들기 </a>: 실전 코딩<caption> 웹의 전반적인 이해를 포함하고 있어서 처음 웹을 공부하는 사람에게 잘 맞는 것 같다. </caption></li>
+               
+               <li><a href=https://www.w3schools.com/> 웹 전반적인 기술 </a><caption>웹페이지 만들려면 어느정도 암기(기술)가 필요</caption>  (출처 : <a = hrefhttps://www.w3schools.com> w3 school</a>)</li> 
                 <ul>
                         <li>html </li>
                         <li>css, css3, scss, bootstrap </li>
@@ -46,7 +48,7 @@
                         <ul>
                         <li>jQuery </li>
                         <li>React </li>
-                        <li>java script</li>
+                        <li>Angular <a href="https://www.hitcle.com/space/Angular/a_I32QQsMNmV8J"> 엥귤러 무작정 따라하기 </a></li>
                 </ul>
                 <li> Nodejs</li>
                     <ul>
