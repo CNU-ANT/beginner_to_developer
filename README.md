@@ -6,7 +6,7 @@
  <li> 처음 프로그래밍을 시작하시면 개발 환경, IDE 사용하는 법(단축키) 부터 익히세요. 그래야 디버깅을 할 수 있습니다. </li>
  <li> 코딩의 80% 는 디버깅입니다. 디버깅이 빨라야 삽질도 덜하고 코드 이해도 빨라집니다. </li>
  <li> 코딩을 하기 전에 무엇을 할 건지 각 step을 글로 적고 시작하세요. 내가 하는 게 뭔지 정확히 알고 진행해야 문제가 없습니다. </li>
- <li> 프로그래밍을 하면 데이터를 사용해야합니다. 이 데이터를 어떻게 가져오고( ex)Database, Rest api) 어떻게 가공해서 사용할 지 이해하는 게 중요합니다. </li>
+ <li> 프로그래밍을 하면 데이터를 사용해야합니다. 쓸 데이터를 어디서 어떻게 가져오고( ex)Database, MongoDB, Rest api) 어떻게 가공해서 사용할 지 이해하는 게 중요합니다. </li>
  <li> 영어는 정말 중요합니다. 블로그 글이 아니라 공식 문서나 github의 이슈를 보고 이해할 수 있으면 누구보다 빠르게 기술을 습득하고 이용할 수 있습니다.</li>
  <li> 설치는 github에서 clone 받아 build하는 게 가장 좋습니다.</li>
 </ol>
@@ -14,14 +14,16 @@
 <h4>강의들</h4>
     <ul>
         <li>입문 강의(프로그래밍 언어) 
-            <ul>파이썬 (출처 : <a href=https://www.youtube.com/watch?v=UHg1Drp1uKE&list=PLGPF8gvWLYypeEoFNTfSHdFL5WRLAfmmm>왼손코딩</a>) </ul>
+            <ul><li>파이썬 (출처 : <a href=https://www.youtube.com/watch?v=UHg1Drp1uKE&list=PLGPF8gvWLYypeEoFNTfSHdFL5WRLAfmmm>왼손코딩)</a></li>
+             <li>자바</li>
+          </ul>
         </li>
     </ul>
     <ul>
-        <li>자료구조 강의 </li>
-    </ul>
+        <li>자료구조 강의 </li></ul>
     <ul>
         <li>알고리즘 강의</li>
+ </ul>
            <ul>
                 <li><a href=https://www.youtube.com/watch?v=qQ5iLNjpxSk&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz> 실전 알고리즘 강의  </a> (출처 : <a href=https://www.youtube.com/channel/UChflhu32f5EUHlY7_SetNWw/playlists>나동빈 Youtube</a>) </li>
             </ul>
