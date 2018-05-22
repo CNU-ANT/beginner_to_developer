@@ -63,11 +63,10 @@
         <li> 버전관리, 오픈소스 Git</li> 
     </ul>
  <hr>
-<h4> 보면 좋은 자료들(다양한 기술 이해) </h4>
-<ul>
-    <li><a href="https://www.youtube.com/watch?v=klnfWhPGPRs"> naver d2 세미나</a></li>
-    <li> <a href="http://bcho.tistory.com/"> 조대협 블로그</a></li>
-    <li>  <a href="http://meetup.toast.com/"> Toast Meetup </a></li>
+<h4>보면 좋은 자료들(다양한 기술 이해)</h4><ul>
+    <li><a href="https://www.youtube.com/watch?v=klnfWhPGPRs">naver d2 세미나</a></li>
+    <li><a href="http://bcho.tistory.com/"> 조대협 블로그</a></li>
+    <li> <a href="http://meetup.toast.com/"> Toast Meetup </a></li>
  </ul>
 <h3> 보면 좋은 자료들(멘탈) </h3>
 <ul>
