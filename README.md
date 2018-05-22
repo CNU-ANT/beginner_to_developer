@@ -71,7 +71,6 @@
     <li><a href= https://www.youtube.com/watch?v=PUd6LCJZlJo&t=1s> 
     컴퓨터는 추상적으로 돌지 않는다 : 인생은 알고리즘으로 되어있다. </a> (출처 : <a href=https://www.youtube.com/channel/UC63J0Q5huHSlbNT3KxvAaHQ>포프TV</a> )</li>
         <caption> 추천이유 : 알고리즘이 실생활에 사용된다는 걸 이해하고 코딩하며 실제 로직에 집중해야 한다는 걸 되새길 수 있습니다.</caption>
-     <li><a href= https://www.youtube.com/watch?v=kilGnfyhMkg> 
-     거짓말쟁이들의 패턴 </a> (출처 : <a href=https://www.youtube.com/channel/UC63J0Q5huHSlbNT3KxvAaH>포프TV</a> )</li>
-        <caption> 추천이유 : 이렇게 되지 .</caption> 
+     <li><a href= https://www.youtube.com/watch?v=kilGnfyhMkg>거짓말쟁이들의 패턴</a> (출처 : <a href=https://www.youtube.com/channel/UC63J0Q5huHSlbNT3KxvAaH>포프TV</a> )</li>
+        <caption> 추천이유 : 이렇게 되지 맙시다.</caption> 
 </ul>
