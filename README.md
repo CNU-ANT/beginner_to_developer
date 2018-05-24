@@ -41,7 +41,7 @@
      <ul> 
         <li>웹 프로그래밍</li>
         <ul>
-         <li>초보</li>
+         <li>처음 시작하는 웹코딩</li>
          <ul>
           <li><a href="https://opentutorials.org/course/1688"> 웹 애플리케이션 만들기 </a>: 실전 코딩<caption> 추천 이유 : 웹의 전반적인 이해를 포함하고 있어서 처음 웹을 공부하는 사람에게 잘 맞는 것 같다. </caption></li>
           <li><a href=https://www.w3schools.com/> 웹 전반적인 기술 </a><caption>웹페이지 만들려면 어느정도 암기(기술)가 필요</caption>  (출처 : <a = hrefhttps://www.w3schools.com> w3 school</a>)</li>
@@ -49,19 +49,31 @@
                <li>Front-end(클라이언트, browser)</li>
                <ul><li>html</li>
                         <li>css, css3, scss, bootstrap </li>
-                        <li>java script</li>
+                        <li>자바스크립트</li>
                         <li>jQuery </li>
                         <li>React </li>
  <li>Angular <a href="https://www.hitcle.com/space/Angular/a_I32QQsMNmV8J"> 엥귤러 무작정 따라하기 </a></li>
                 </ul>
-                <li> back-end(서버)</li>
+                <li>Back-end(서버)</li>
                     <ul>
  <li>Nodejs</li>
                         <li> REST api </li>
                     </ul>
             </ul>
     </ul>
-    <ul> 
+   <ul>프레임 워크 
+   <li>자바</li>
+  <ul><li>스프링<a href="https://cheese10yun.github.io/archives/1/"> 스프링 시작 참고 블로그</a>
+ <li>안드로이드</li>
+   <li>코틀린</li></ul>
+   <li>파이썬</li>
+   <ul><li>flask</li>
+    <li>django</li></ul>
+ <li> 자바스크립트 </li>
+ <li>C#</li>
+ <ul><li></li></ul>
+   </ul>
+   <ul> 
         <li>네트워크, 분산처리</li>
     </ul>
     <ul> 
